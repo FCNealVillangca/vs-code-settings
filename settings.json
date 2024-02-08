@@ -1,0 +1,64 @@
+{
+  // Python Settings
+  "python.defaultInterpreterPath": "C:\\Users\\PC\\anaconda3\\python.exe",
+  "python.languageServer": "Pylance",
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  
+  // Java Script Ecosystem Settings
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "tabnine.experimentalAutoImports": true,
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.colorTheme": "Monokai ST3",
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.largeFileOptimizations": false,
+  "json.schemas": [
+
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.minimap.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always"
+}
